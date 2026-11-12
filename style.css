@@ -1,0 +1,4 @@
+.row .card:hover{
+    box-shadow: 2px 2px 2px rgb(102, 98, 98);
+    transform: scale(1.05);
+}
